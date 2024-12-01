@@ -1,3 +1,3 @@
 # Ankit-project
-My first git repository
+My first git repository.
 Author - Ankit Gochare
